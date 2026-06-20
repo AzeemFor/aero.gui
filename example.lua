@@ -6,7 +6,7 @@
 --]]
 
 local Library = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/<your-username>/<your-repo>/main/init.lua"
+    "https://raw.githubusercontent.com/AzeemFor/aero.gui/refs/heads/main/init.lua"
 ))()
 
 local Window = Library:CreateWindow({
